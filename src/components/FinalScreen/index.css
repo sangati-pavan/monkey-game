@@ -1,0 +1,24 @@
+.final-screen {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-image: url('https://res.cloudinary.com/dqjbgrrmx/image/upload/v1716733772/Screenshot_2024-05-26_143643_seolfz.png');
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  color: #333;
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+p {
+  font-family: Arial, sans-serif;
+  color: #555;
+  font-size: 1.2rem;
+}
